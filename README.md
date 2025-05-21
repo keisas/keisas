@@ -8,7 +8,7 @@
 🖥️ https://yonecoding.com  
 
 技術スタック・制作物・プロジェクトについてまとめています。  
-特に、**RAG（Retrieval-Augmented Generation）を活用した検索AI「YoneyamaGPT」**により、詳細な自己紹介やプロジェクトの背景を体験形式で提供しています（PC・スマートフォン対応）。
+特に、RAG（Retrieval-Augmented Generation）を活用した検索AI「YoneyamaGPT」により、詳細な自己紹介やプロジェクトの背景を体験形式で提供しています（PC・スマートフォン対応）。
 
 ## 興味のある分野
 
